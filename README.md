@@ -1,4 +1,3 @@
-# Welcome to the website of Grace Laryea
   <div id="About Me">
     <h2>Tab 1 Content</h2>
     <p>This is the content of tab 1.</p>
