@@ -16,13 +16,12 @@
   <li> Learning new programs and all things AI! </li>
 </ul>
 
-  </div>
   <div id="Hobbies">
     <h2>Hobbies</h2>
     <p>As an avid crocheter and knitter, I have made a collection of hats, toys and clothes.</p>
   </div>
 
- </div>
+
   <div id="Projects">
     <h2>Projects</h2>
     <p>As an avid crocheter and knitter, I have made a collection of hats, toys and clothes.</p>
