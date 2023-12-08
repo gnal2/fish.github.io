@@ -10,7 +10,6 @@
   <div id="Notes">
     <h2>Research Interests</h2>
 <ul>
-I am passionate about,
   <li> Forecasting and prediction of stock prices in Finance</li>
   <li> Machine learning and their applications in Finance</li>
   <li> Time series simulation and pricing techniques in Finance</li>
