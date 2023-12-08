@@ -13,5 +13,5 @@
   </div>
   <div id="Projects">
     <h2>Hobbies</h2>
-    <p>As an avide crocheter I have made a collection of hats, toys and clothes.</p>
+    <p>As an avid crocheter and knitter, I have made a collection of hats, toys and clothes.</p>
   </div>
