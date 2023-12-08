@@ -9,9 +9,9 @@
   </div>
   <div id="Notes">
     <h2>Research Interests</h2>
-    <p>This is the content of tab 2.</p>
+    <p>I am passionate about forecasting and Machine Learning in Finance</p>
   </div>
   <div id="Projects">
     <h2>Hobbies</h2>
-    <p>This is the content of tab 3.</p>
+    <p>As an avide crocheter I have made a collection of hats, toys and clothes.</p>
   </div>
