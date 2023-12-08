@@ -1,4 +1,4 @@
-theme: jekyll-theme-Cayman
+theme: jekyll-theme-minimal-mistakes
 
 jekyllTabs:
   enabled: true
