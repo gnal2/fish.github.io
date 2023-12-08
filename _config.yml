@@ -1,4 +1,4 @@
-theme: jekyll-theme-Hacker
+theme: jekyll-theme-minima
 
 jekyllTabs:
   enabled: true
