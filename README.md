@@ -10,4 +10,3 @@
     <h2>Hobbies</h2>
     <p>This is the content of tab 3.</p>
   </div>
-</div>
