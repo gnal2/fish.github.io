@@ -1,8 +1,9 @@
 # Welcome to the website of Grace Laryea
-git clone https://github.com/pages-themes/cayman
 
-title: Your Website Name
-description: A brief description of your website.
-author: Your Name
-linkedin: Your LinkedIn URL
-email: Your email address
+<nav class="tabs">
+  <ul>
+    <li><a href="#about">About Me</a></li>
+    <li><a href="#contact">Contact Me</a></li>
+  </ul>
+</nav>
+
