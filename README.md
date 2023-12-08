@@ -9,11 +9,14 @@
   </div>
   <div id="Notes">
     <h2>Research Interests</h2>
-    <p> I am passionate about,
-      - forecasting and prediction of stock prices in Finance
-    - Machine learning and their applications in Finance
-    - Time series simulation and pricing techniques in Finance
-    - Learning new programs and all things AI!</p>
+<ul>
+  <li>I am passionate about,</li>
+  <li>- forecasting and prediction of stock prices in Finance</li>
+  <li>- Machine learning and their applications in Finance</li>
+  <li>- Time series simulation and pricing techniques in Finance</li>
+  <li>- Learning new programs and all things AI!</li>
+</ul>
+
   </div>
   <div id="Projects">
     <h2>Hobbies</h2>
