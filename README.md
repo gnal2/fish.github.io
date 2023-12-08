@@ -1,10 +1,3 @@
-<head>
-  <style>
-    body {
-      background: linear-gradient(to right, turquoise, green);
-    }
-  </style>
-</head>
 
   <div id="About Me">
     <h2> About Me </h2>
