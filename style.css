@@ -16,3 +16,11 @@
 .menu a:hover {
   color: #fff;
 }
+
+ul {
+  list-style-type: square;
+}
+
+li {
+  color: black;
+}
