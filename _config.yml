@@ -1,1 +1,6 @@
 theme: jekyll-theme-Merlot
+
+jekyllTabs:
+  enabled: true
+  activateTabFromUrl: true
+
