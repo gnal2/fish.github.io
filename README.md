@@ -11,9 +11,10 @@
     <h2>Research Interests</h2>
 <ul>
   <li> Forecasting and prediction of stock prices in Finance</li>
-  <li> Machine learning and their applications in Finance</li>
-  <li> Time series simulation and pricing techniques in Finance</li>
-  <li> Learning new programs and all things AI! </li>
+  <li> Machine learning and its applications in Finance</li>
+  <li> Time series simulation </li>
+  <li> Pricing techniques <li>
+  <li> AI </li>
 </ul>
 
   <div id="Hobbies">
