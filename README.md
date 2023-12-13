@@ -14,7 +14,6 @@
   <li> Machine learning and its applications in Finance</li>
   <li> Time series simulation </li>
   <li> Pricing techniques <li>
-  <li> AI </li>
 </ul>
 
   <div id="Hobbies">
