@@ -10,7 +10,7 @@
   <div id="Notes">
     <h2>Research Interests</h2>
 <ul>
-  <li> Forecasting and prediction of stock prices in Finance</li>
+  <li> Forecasting and prediction techniques</li>
   <li> Machine learning and its applications in Finance</li>
   <li> Time series simulation </li>
   <li> Pricing techniques <li>
